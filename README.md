@@ -1,4 +1,4 @@
-# Process of developing a task
+# Process of developing a task (FRONTEND)
 ## Discussion of functional requirements for a task or a feature
 
 1. Dmitry should choose a task or a feature for developing a developer
